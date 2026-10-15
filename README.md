@@ -1,3 +1,3 @@
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/5e01d912-b713-4752-8728-e714e9542d97" autoplay loop muted playsinline width="100%"></video>
+  <video src="https://github.com/user-attachments/assets/fee7a7ec-ad45-4782-b5b8-08fa3554db4e" autoplay loop muted playsinline width="100%"></video>
 </p>
